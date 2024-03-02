@@ -1,4 +1,4 @@
-# heatmappr
+# heatmappr 🔥
 
 Small graphic design tool for making thermal heat map effect on images. 
 As far as inspiration, I wanted to mimic the graphic design effect achieved on the cover of music group Brockhampton’s album “Iridescence” as shown below.
