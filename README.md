@@ -8,7 +8,7 @@ As far as inspiration, I wanted to mimic the graphic design effect achieved on t
 After reviewing literature/resources regarding image filtering, I realized that I could take advantage of the k-means clustering algorithm and apply it to the pixels in an image so I could create these “neighborhoods” of pixel groupings based on their similarity to one another, label them by color, and then recreate the image with these customized color boundaries. This algorithm is essentially the main engine of my “heatmapper()” image filtering function. Overall, I took advantage of the ImageIO Python library and the SciKit Python library's K-Means clustering functionality to perform these image processing tasks. 
 
 
-Example outputs:
+## Example outputs:
 
 ![image](https://github.com/bempong/heatmappr/assets/53280320/64b97356-3825-4967-916e-08672cce19ab)
 
